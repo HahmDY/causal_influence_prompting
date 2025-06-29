@@ -1,0 +1,26 @@
+name: cip_mobilesafetybench
+channels:
+  - defaults
+dependencies:
+  - pillow
+  - pip
+  - python=3.10
+  - pip:
+      - regex
+      - openai
+      - google.generativeai
+      - anthropic
+      - opencv-python
+      - Pillow
+      - matplotlib
+      - portpicker
+      - ipykernel
+      - pyshine
+      - wandb
+      - tqdm
+      - pandas
+      - Appium-Python-Client
+      - pyyaml
+      - scapy
+      - pycid
+      - python-dotenv

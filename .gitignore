@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.DS_Store
+*.egg-info/
+
+cip/notebooks
+cip/cids
+
+*.apk
+
+MobileSafetyBench/logs
