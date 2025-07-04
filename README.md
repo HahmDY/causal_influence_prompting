@@ -1,4 +1,4 @@
-# Causal Influence Prompting
+# Enhancing LLM Agent Safety via Causal Influence Prompting
 
 ![main_figure](./asset/main_figure.png)
 
